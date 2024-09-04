@@ -1,6 +1,7 @@
 # NotADevilOsuMap
-
+![image](https://github.com/user-attachments/assets/304371e6-a26d-4b82-8973-d7f0629c8061)
 This is my first osu map, tracked by Git for Hack Club!
+
 
 
 To install,
